@@ -1,5 +1,3 @@
-int pin = 4;
-
 // Konstanty pro délku sepnutí každé klávesy
 int delays[8] = {40, 50, 60, 60, 50 ,50, 50, 40};
 
